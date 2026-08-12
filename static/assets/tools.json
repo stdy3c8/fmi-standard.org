@@ -3910,6 +3910,33 @@
             "CS"
         ]
     },
+		{
+        "name": "PartQuest Explore",
+        "license": "commercial",
+        "url": "https://explore.partquest.com/",
+        "logo": "Siemens.png",
+        "vendor": "Siemens",
+        "vendorURL": "https://www.siemens.com/",
+        "description": "PartQuest Explore is a cloud-based analog/mixed-signal system simulation tool. PartQuest Explore features VHDL-AMS and SPICE model creation, time- and frequency- domain simulation, and visualization and analysis of results. Work groups enable online sharing and collaboration.",
+        "features": [],
+        "platforms": [
+			"Windows",
+			"Linux",
+			"macOS"
+        ],
+        "interfaces": [
+            "GUI"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
 	{
         "name": "Simcenter 3D Motion",
         "license": "commercial",
